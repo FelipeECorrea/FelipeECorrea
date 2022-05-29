@@ -2,7 +2,7 @@
 
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeecorrea/)
 
-![Felipe Corrêa GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeecorrea&show_icons=true&theme=dracula)
+![Felipe Corrêa GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecorrea&show_icons=true&theme=dracula)
 
 ## Linguagem que uso no dia-a-dia 
 <div style="display: inline_block"><br/>
