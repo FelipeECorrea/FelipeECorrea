@@ -3,8 +3,11 @@
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipeecorrea/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pessoal.fec@gmail.com)](mailto:pessoal.fec@gmail.com)
 
-![Felipe Corrêa GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeecorrea&show_icons=true&theme=dracula)
 <div align="center">
+  <a href="https://github.com/FelipeECorrea">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeECorrea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeECorrea&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Linguagem que uso no dia-a-dia 
 <div style="display: inline_block"><br/>
