@@ -17,8 +17,8 @@
   <img align="center" alt="Logo Gabi Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
   <img align="center" alt="Logo Gabi Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Logo Gabi Trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg">
-  <img align="right" alt="Kakashi Gif" height="150" style="border-radius:63px;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif">
-</div>
+</div>  
+<img align="right" alt="Kakashi Gif" height="150" style="border-radius:63px;" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200.gif">
 <hr>
 
 <div> 
