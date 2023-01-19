@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Felipe%20Corrêa&fontSize=50&fontColor=ff&animation=fadeIn&fontAlignY=30&desc=Dev%20Back%20End&descAlignY=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Felipe%20Corrêa&fontSize=50&fontColor=ff&animation=fadeIn&fontAlignY=30&desc=Dev%20Jr%20Back%20End&descAlignY=50">
 
 <h3>Olá me chamo Felipe Corrêa e esse é meu perfil do GitHub ✋
 </h1>
